@@ -6,9 +6,9 @@
     </i>
 </div>
 
-
-
 ## masterak
+| &#x1f382; Birthday | 1998. 09 |
+| --- | :---: |
 
 ## &#x1f4d2; Blog
 [Zenn](https://zenn.dev/masterak)
