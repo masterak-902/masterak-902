@@ -9,7 +9,7 @@
 ## &#x1f4d2; Blog
 [Zenn](https://zenn.dev/masterak)
 
-## &#x1f4f7; Portfolio
+## &#x1f4f8; Portfolio
 [HSWEV PORTFOLIO 1](https://portfolio-1-one-tau.vercel.app/)
 
 ## &#x1f4e8; Contact
