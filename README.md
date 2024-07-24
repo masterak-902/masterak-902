@@ -8,7 +8,7 @@
 
 ## &#x1f914; masterak
 
-Web 時々 Embeded エンジニア
+Web 時々 Embeded エンジニア<br>
 最近の悩みは、横文字が頭に入ってこないこと
 
 | &#x1f382; Birthday | 1998. 09 | 25 |
