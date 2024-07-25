@@ -15,11 +15,13 @@ Web 時々 Embeded エンジニア<br>
 | --- | :---: | --- |
 
 ## &#x1f4d2; Blog
-[Zenn](https://zenn.dev/masterak)
+
+- [Zenn](https://zenn.dev/masterak)
 
 ## &#x1f4f8; Portfolio
-[HSWEB PORTFOLIO 1](https://portfolio-1-one-tau.vercel.app/)
-[HSWEB PORTFOLIO 2 準備中](https://github.com/masterak-902)
+
+- [HSWEB PORTFOLIO 1](https://portfolio-1-one-tau.vercel.app/)
+- [HSWEB PORTFOLIO 2 準備中](https://github.com/masterak-902)
 
 ## &#x1f4e8; Contact
 [準備中...](https://github.com/masterak-902)
