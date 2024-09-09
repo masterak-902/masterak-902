@@ -26,6 +26,8 @@
 - [HSWEB PORTFOLIO 1](https://portfolio-1-one-tau.vercel.app/)
 - [HSWEB PORTFOLIO 2](https://masterak-hsweb-portf-57.deno.dev/)
 - [HSWEB PORTFOLIO 3](https://github.com/masterak-902/hsweb-portfolio-3)
+- [HSWEB PORTFOLIO 4](https://hsweb-portfolio-4.pages.dev/ja/)
+- [HSWEB PORTFOLIO 5](https://github.com/masterak-902/hsweb-portfolio-5)
 
 ## &#x1f4e8; Contact
 [CONTACT FORM](https://masterak-hsweb-portf-57.deno.dev/)
