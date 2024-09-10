@@ -18,12 +18,12 @@
 
 ## さいきんハマってるフレームワーク
 
-*[Hono](https://hono.dev/)*
+*[&#x1f525; Hono](https://hono.dev/)*
 
 **カンタン！便利！** です。<br>
 開発体験とかよくわからないけれど、多分こういうのを言うんだ。
 
-*[Astro](https://astro.build/)*　
+*[&#x1f680; Astro](https://astro.build/) *　
 
 なんとなくシンパシーを感じる。
 
