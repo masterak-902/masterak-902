@@ -33,9 +33,5 @@
 
 ## &#x1f4f8; Portfolio
 
-- [HSWEB PORTFOLIO 3](https://github.com/masterak-902/hsweb-portfolio-3)
-- [HSWEB PORTFOLIO 4](https://hsweb-portfolio-4.pages.dev/ja/)
-- [HSWEB PORTFOLIO 5](https://github.com/masterak-902/hsweb-portfolio-5)
-
 ## &#x1f4e8; Contact
 
