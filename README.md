@@ -31,7 +31,3 @@
 
 - [Zenn](https://zenn.dev/masterak)
 
-## &#x1f4f8; Portfolio
-
-## &#x1f4e8; Contact
-
