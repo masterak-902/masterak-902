@@ -20,11 +20,9 @@
 
 *[&#x1f525; Hono](https://hono.dev/)*
 
-**カンタン！便利！** <br>
-
 *[&#x1f680; Astro](https://astro.build/)*
 
-よくつかっている、フロントエンドフレームワーク
+*[&#x2699; Embeded Rust](https://www.rust-lang.org/what/embedded/)*
 
 ## &#x1f4d2; Blog
 
